@@ -1,6 +1,5 @@
-# Data Science Notebooks Collection
-
-This repository contains a collection of Jupyter notebooks covering various topics in data science, statistics, and machine learning. Each notebook is intended to provide hands-on examples and explanations for different concepts.
+# 🧠 Data Science & ML Notebooks
+A growing collection of Jupyter notebooks for data science, statistics, and machine learning. Each notebook will offer hands-on examples and clear explanations.
 
 ## Notebooks Included
 
